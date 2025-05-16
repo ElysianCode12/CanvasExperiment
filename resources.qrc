@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="qml/main.qml">qml/main.qml</file>
+        <file alias="qml/components/ControlButton.qml">qml/components/ControlButton.qml</file>
+        <file alias="qml/components/LoadingOverlay.qml">qml/components/LoadingOverlay.qml</file>
+        <file alias="qml/components/ErrorOverlay.qml">qml/components/ErrorOverlay.qml</file>
+        <file alias="qml/components/CustomizationMenu.qml">qml/components/CustomizationMenu.qml</file>
+    </qresource>
+</RCC> 
